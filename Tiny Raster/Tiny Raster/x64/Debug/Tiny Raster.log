@@ -1,0 +1,111 @@
+﻿  main.cpp
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(61,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(62,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(63,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(64,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(75,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(76,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(91,83): warning C4244: 'argument': conversion from 'double' to 't', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(91,83): warning C4244:         with
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(91,83): warning C4244:         [
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(91,83): warning C4244:             t=int
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(91,83): warning C4244:         ]
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(91,52): warning C4244: 'argument': conversion from 'double' to 't', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(91,52): warning C4244:         with
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(91,52): warning C4244:         [
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(91,52): warning C4244:             t=int
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(91,52): warning C4244:         ]
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(97,107): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(97,85): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(97,63): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(118,112): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(118,90): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(118,68): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(165,14): warning C4244: 'initializing': conversion from 't' to 'float', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(165,14): warning C4244:         with
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(165,14): warning C4244:         [
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(165,14): warning C4244:             t=int
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(165,14): warning C4244:         ]
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(207,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(219,56): warning C4244: 'argument': conversion from 'int' to 't', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(219,56): warning C4244:         with
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(219,56): warning C4244:         [
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(219,56): warning C4244:             t=float
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(219,56): warning C4244:         ]
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(219,32): warning C4244: 'argument': conversion from 'int' to 't', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(219,32): warning C4244:         with
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(219,32): warning C4244:         [
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(219,32): warning C4244:             t=float
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(219,32): warning C4244:         ]
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(226,109): warning C4244: 'argument': conversion from 'double' to 't', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(226,109): warning C4244:         with
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(226,109): warning C4244:         [
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(226,109): warning C4244:             t=int
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(226,109): warning C4244:         ]
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(226,64): warning C4244: 'argument': conversion from 'double' to 't', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(226,64): warning C4244:         with
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(226,64): warning C4244:         [
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(226,64): warning C4244:             t=int
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(226,64): warning C4244:         ]
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(230,57): warning C4244: '+=': conversion from 'double' to 't', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(230,57): warning C4244:         with
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(230,57): warning C4244:         [
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(230,57): warning C4244:             t=float
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(230,57): warning C4244:         ]
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(232,58): warning C4244: '+=': conversion from 'double' to 't', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(232,58): warning C4244:         with
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(232,58): warning C4244:         [
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(232,58): warning C4244:             t=float
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(232,58): warning C4244:         ]
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(234,86): warning C4244: 'argument': conversion from 'double' to 't', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(234,86): warning C4244:         with
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(234,86): warning C4244:         [
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(234,86): warning C4244:             t=int
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(234,86): warning C4244:         ]
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(234,45): warning C4244: 'argument': conversion from 'double' to 't', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(234,45): warning C4244:         with
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(234,45): warning C4244:         [
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(234,45): warning C4244:             t=int
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(234,45): warning C4244:         ]
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(243,55): warning C4244: '=': conversion from 't' to 'int', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(243,55): warning C4244:         with
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(243,55): warning C4244:         [
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(243,55): warning C4244:             t=float
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(243,55): warning C4244:         ]
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(254,14): warning C4244: 'initializing': conversion from 't' to 'float', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(254,14): warning C4244:         with
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(254,14): warning C4244:         [
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(254,14): warning C4244:             t=int
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(254,14): warning C4244:         ]
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(278,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(279,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(359,38): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(360,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(361,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(369,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(380,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(381,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\main.cpp(383,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\geometry.h(24,75): warning C4244: 'argument': conversion from 'float' to 't', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\geometry.h(24,75): warning C4244:         with
+C:\Users\Christian\source\repos\Tiny Raster\geometry.h(24,75): warning C4244:         [
+C:\Users\Christian\source\repos\Tiny Raster\geometry.h(24,75): warning C4244:             t=int
+C:\Users\Christian\source\repos\Tiny Raster\geometry.h(24,75): warning C4244:         ]
+  (compiling source file 'main.cpp')
+      C:\Users\Christian\source\repos\Tiny Raster\geometry.h(24,75):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Christian\source\repos\Tiny Raster\main.cpp(72,10):
+          see reference to class template instantiation 'Vec2<int>' being compiled
+          C:\Users\Christian\source\repos\Tiny Raster\geometry.h(24,17):
+          while compiling class template member function 'Vec2<int> Vec2<int>::operator *(float) const'
+              C:\Users\Christian\source\repos\Tiny Raster\main.cpp(276,16):
+              see the first reference to 'Vec2<int>::operator *' in 'sweepTriangle'
+  
+C:\Users\Christian\source\repos\Tiny Raster\geometry.h(24,70): warning C4244: 'argument': conversion from 'float' to 't', possible loss of data
+C:\Users\Christian\source\repos\Tiny Raster\geometry.h(24,70): warning C4244:         with
+C:\Users\Christian\source\repos\Tiny Raster\geometry.h(24,70): warning C4244:         [
+C:\Users\Christian\source\repos\Tiny Raster\geometry.h(24,70): warning C4244:             t=int
+C:\Users\Christian\source\repos\Tiny Raster\geometry.h(24,70): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+  Tiny Raster.vcxproj -> C:\Users\Christian\source\repos\Tiny Raster\x64\Debug\Tiny Raster.exe
